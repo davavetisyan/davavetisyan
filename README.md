@@ -36,3 +36,16 @@ Git • CI/CD • Bitrise • Codemagic • Fastlane • Figma • Cursor AI
 Other
 Performance Optimization • Animations • Custom Rendering
 
+
+🧠 Engineering Focus
+
+I care about:
+
+• Architecture over hacks
+• Debuggability over magic
+• Performance over convenience
+• UX polish over raw functionality
+• Automation over repetitive work
+
+I actively use AI tools (LLMs) to design, refactor and scale codebases.
+
