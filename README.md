@@ -25,7 +25,7 @@ Mobile
 Flutter • Dart • iOS • Android • Web
 
 Architecture
-Clean Architecture • Bloc/Cubit • GetX • MobX • DI • Modularization
+Clean Architecture • Bloc/Cubit • GetX • MobX • DI 
 
 Backend Communication
 REST • WebSockets • SSE • Firebase • Push Notifications
