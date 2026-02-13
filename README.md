@@ -52,8 +52,16 @@ I actively use AI tools (LLMs) to design, refactor and scale codebases.
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davavetisyan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davavetisyan&layout=compact&theme=tokyonight" />
 </p>
+
+
+📫 Contact
+
+Telegram: @davssDEV  
+Email: davetisyan114@gmail.com 
+LinkedIn: https://www.linkedin.com/in/david-avetisyan-5a4474374/
+
 
 
