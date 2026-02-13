@@ -47,21 +47,7 @@ I actively use LLMs to design, refactor and scale production codebases.
 
 ## 📊 GitHub Stats
 
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=davavetisyan" height="165" />
-    </td>
-    <td>
-      <img src="https://stats.dooboo.io/api/github-trophies?login=davavetisyan" height="165" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center" > <img src="https://stats.dooboo.io/api/github-stats-advanced?login=davavetisyan" height="165"/> <img src="https://stats.dooboo.io/api/github-trophies?login=davavetisyan" height="165"/> </p>
 
 
 
