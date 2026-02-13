@@ -6,13 +6,17 @@ I build scalable mobile & web applications with Flutter.<br/>
 Focused on performance, architecture and real business products — not tutorials.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davavetisyan&color=blueviolet"/>
+</p>
+
 ---
 
 ## 🚀 About Me
-- 4+ years Flutter (mobile + web)
+- 4+ years Flutter development (mobile + web)
 - Production apps with thousands of users
 - Real-time features (sockets, streaming, multiplayer logic)
-- Complex UI & animation heavy interfaces
+- Complex UI & animation-heavy interfaces
 - Clean Architecture & scalable codebases
 - AI-assisted development workflow
 
@@ -43,8 +47,8 @@ I actively use LLMs to design, refactor and scale production codebases.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davavetisyan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davavetisyan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=davavetisyan" height="165"/>
+  <img src="https://stats.dooboo.io/api/github-trophies?login=davavetisyan"/>
 </p>
 
 ---
