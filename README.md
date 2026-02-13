@@ -18,3 +18,21 @@ Currently interested in:
 - High-scale products
 - AI powered applications
 - Advanced UI/UX engineering
+
+🧰 Tech Stack
+
+Mobile
+Flutter • Dart • iOS • Android • Web
+
+Architecture
+Clean Architecture • Bloc/Cubit • GetX • MobX • DI • Modularization
+
+Backend Communication
+REST • WebSockets • SSE • Firebase • Push Notifications
+
+Tools
+Git • CI/CD • Bitrise • Codemagic • Fastlane • Figma • Cursor AI
+
+Other
+Performance Optimization • Animations • Custom Rendering
+
