@@ -6,9 +6,7 @@ I build scalable mobile & web applications with Flutter.<br/>
 Focused on performance, architecture and real business products — not tutorials.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davavetisyan&color=blueviolet"/>
-</p>
+
 
 ---
 
